@@ -1,3 +1,4 @@
 # hello-world
 just another repository
-i am akhilesh.i want to learn java and other languages.
+i am akhilesh.
+On my way to become a fullstack developer and learn AWS too.
